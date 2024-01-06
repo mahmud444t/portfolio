@@ -63,6 +63,7 @@ cursor: pointer;
 }
 .banner .image{
     width: 450px;
+    padding-right: 55px;
 
 }
 .banner-greeting{
